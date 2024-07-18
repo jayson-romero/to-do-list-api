@@ -1,28 +1,40 @@
 {
 	"todos": [
 		{
-			"id": "1",
-			"todoText": "Clean car",
+			"id": 1,
+			"todoText": "Give dog a bath",
 			"completed": false,
 			"important": true
 		},
 		{
-			"id": "2",
-			"todoText": "Wash clothes adawdawd",
-			"completed": false,
+			"id": 2,
+			"todoText": "Take out garbage",
+			"completed": true,
 			"important": true
 		},
 		{
-			"id": "6126",
-			"todoText": "Go to the gym",
-			"completed": false,
-			"important": true
-		},
-		{
-			"id": "ed29",
-			"todoText": "Go to bed before 9PM",
+			"id": 6,
+			"todoText": "Buy light for desk",
 			"completed": false,
 			"important": false
+		},
+		{
+			"id": 7,
+			"todoText": "Wash dishes",
+			"completed": false,
+			"important": false
+		},
+		{
+			"id": 9,
+			"todoText": "Do expense report",
+			"completed": false,
+			"important": true
+		},
+		{
+			"id": 10,
+			"todoText": "Walk the dog",
+			"completed": false,
+			"important": true
 		}
 	]
 }
